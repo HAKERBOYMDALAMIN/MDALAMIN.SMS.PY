@@ -46,7 +46,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.facebook.com/Mdalmin12345')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Mdalmin12345')')
+        os.system('xdg-open https://www.facebook.com/Mdalmin12345')
 
 
 os.system("clear")
@@ -55,7 +55,7 @@ os.system("clear")
     
 
 
-logu=print(red+"""                 
+print(red+"""                 
      /\   | |ALAMIN  /\   |\     /| | | | |  | |
     /  \  | |       /  \  | \   / | | | |  \ | |
    / /\ \ | |      / /\ \ | |\/ | | | | | | \  |
@@ -63,11 +63,7 @@ logu=print(red+"""
  /_/    \_\______/_/    \_\_|   |_| | | | | \ \|""")
  
  
-def logu (z):
-	for word  in + '\n':
-		sys.stdout.write(word)
-		sys.stdout.flush()
-		time.sleep(0.01)
+
 
 
 
